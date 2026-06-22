@@ -1,0 +1,10 @@
+# Скопируйте этот файл в local.properties и заполните своими значениями.
+# local.properties не попадает в git (см. .gitignore).
+
+sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+
+# Получить ключ: https://openweathermap.org/api
+WEATHER_API_KEY=your_openweathermap_api_key
+
+# Получить ключ: https://developer.ticketmaster.com/
+TICKETMASTER_API_KEY=your_ticketmaster_api_key
